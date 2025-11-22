@@ -3,7 +3,7 @@
 ### I'm a graphic designer & Go enthusiast from Eastern Europe.
 <hr>
 
-**`My minimalistish website:`** **&rarr;** **<a href="https://anemos.is-a.dev/" target="_blank">anemos.is-a.dev</a>**
+**`My minimalistish website:`** **&rarr;** **[anemos.is-a.dev](https://anemos.is-a.dev)**
 
 ‎ 
 
